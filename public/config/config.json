@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9ffc1144bb40a2b2de27a3746a0129dda23c6e97",
+  "SCAN_LINK": "https://polygonscan.com/address/0x9ffc1144bb40a2b2de27a3746a0129dda23c6e97",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cool Cans NFT",
+  "SYMBOL": "CCN",
+  "MAX_SUPPLY": 1100,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cool-cans-nft/",
+  "SHOW_BACKGROUND": true
+}
